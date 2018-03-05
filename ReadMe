@@ -1,0 +1,14 @@
+
+The txt files are explained as follws:
+
+
+1- The nvnf_hexa (number of vertices, number of faces, number of vertices in each face) for Hexahedral 
+2- The nvnf_tetra (number of vertices, number of faces, number of vertices in each face) for Tetrahedral 
+
+3- vertex_hexa: coordinates per vertex (Hexahedral)
+4- face_hex: indices of vertices (Hexahedral)
+
+5- vertex_tetra: coordinates per vertex (Tetrahedral)
+6- face_tetra: indices of vertices (Tetrahedral)
+
+
